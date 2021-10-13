@@ -3,5 +3,9 @@
     color:brown;
 }
 .h2 {
-    color: red;
+    color: #ff0000;
+    align-self: center;
+    background-color:brown;
+    
+    
 }
